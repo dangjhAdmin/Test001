@@ -6,7 +6,7 @@ public class Person {
     private String age;
     private String certNo;
     private String certType;
-    private String bacsNo;
+    private String bancsNo;
     private String custUid;
 
 }
