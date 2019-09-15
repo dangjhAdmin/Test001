@@ -8,5 +8,6 @@ public class Person {
     private String certType;
     private String bancsNo;
     private String custUid;
+    private String phone;
 
 }
