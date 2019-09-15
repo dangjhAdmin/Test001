@@ -9,5 +9,6 @@ public class Person {
     private String bancsNo;
     private String custUid;
     private String phone;
+    private String address;
 
 }
