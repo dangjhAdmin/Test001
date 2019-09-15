@@ -12,6 +12,7 @@ public class Person {
     private String address;
     private String seqEmp;
     private String seqOrgId;
+    private String seqOrgCode;
 
 
 }
