@@ -10,5 +10,8 @@ public class Person {
     private String custUid;
     private String phone;
     private String address;
+    private String seqEmp;
+    private String seqOrgId;
+
 
 }
