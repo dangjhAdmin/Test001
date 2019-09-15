@@ -1,5 +1,10 @@
 package com.global.domain;
 
+/**
+ * @author dangjhAdmin
+ * 2019-09-15
+ * 实体类
+ */
 public class Person {
     private String id;
     private String name;
