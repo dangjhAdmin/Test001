@@ -18,6 +18,7 @@ public class Person {
     private String seqEmp;// 所屬客戶經理
     private String seqOrgId;// 機構ID
     private String gender;// 性別
+    private String amt;// 今日资产
 
 
 }
